@@ -1,8 +1,5 @@
 ### Hello, World! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje em dia ainda não trabalho, apenas estudo
 - 🌱 Estou estudando front-end
 - 💬 Só não vale falar mal de python na minha frente
