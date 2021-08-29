@@ -15,7 +15,7 @@
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gabriel-Python" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fnode-js-1&psig=AOvVaw3VB3MimEU4Nv8grWYUds7q&ust=1630339563728000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCijafO1vICFQAAAAAdAAAAABAD"> 
+  <img align="center" alt="gabriel-Node.js" height="30" width="40" src="./nodejs-icon.svg"> 
 <!--   <img align="center" alt="gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
 </div>
