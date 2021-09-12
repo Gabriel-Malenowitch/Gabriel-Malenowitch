@@ -5,8 +5,10 @@
 
  <div>
   <a href="https://github.com/gabriel-malenowitch">
-  <img style="width:35%;" height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style="width:35%;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
+  <div style="height="160em"; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,5 +31,11 @@
   <a href="https://www.linkedin.com/in/gabriel-botelho-malenowitch-9a0523214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+ 
+ <div>
+   <h4>Tour rápido:</h4>
+   <a href="https://netflix-clone-by-gabriel.netlify.app/">Clone netflix</a>
+  
+ </div>
  
 </div>
