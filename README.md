@@ -34,7 +34,7 @@
  
  <div>
    <h4>Tour rápido:</h4>
-   <a href="https://netflix-clone-by-gabriel.netlify.app/">Clone netflix</a>
+   <a href="https://netflix-clone-by-gabriel.netlify.app/">&lt;&lt;Clone netflix&bt;&bt;</a>
   
  </div>
  
