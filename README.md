@@ -33,9 +33,9 @@
  
  <div>
    <h4>Tour rápido:</h4>
-   <a href="https://netflix-clone-by-gabriel.netlify.app/">-&lt;&lt;Clone netflix&gt;&gt;</a>
-   <a href="https://tic-tac-toe-001.netlify.app">-&lt;&lt;Tic-tac-toe-01&gt;&gt;</a>
-   <a href="https://tic-tac-toe-00.netlify.app/">-&lt;&lt;Tic-tac-toe-00&gt;&gt;</a>
-   <a href="https://gabriel-malenowitch.github.io/Calc_project_000/">-&lt;&lt;Calc_project_000&gt;&gt;</a>
+   <p><a href="https://netflix-clone-by-gabriel.netlify.app/">-&lt;&lt;Clone netflix&gt;&gt;</a></p>
+   <p><a href="https://tic-tac-toe-001.netlify.app">-&lt;&lt;Tic-tac-toe-01&gt;&gt;</a></p>
+   <p><a href="https://tic-tac-toe-00.netlify.app/">-&lt;&lt;Tic-tac-toe-00&gt;&gt;</a></p>
+   <p><a href="https://gabriel-malenowitch.github.io/Calc_project_000/">-&lt;&lt;Calc_project_000&gt;&gt;</a></p>
  </div>
 </div>
