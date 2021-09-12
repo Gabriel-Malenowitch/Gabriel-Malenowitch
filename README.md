@@ -17,6 +17,7 @@
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabriel-Node.js" height="30" width="40" src="./nodejs-icon.svg"> 
+  <img align="center" alt="gabriel-C" height="30" width="40" src="https://www.w3schools.in/wp-content/uploads/cprogramming-logo.png?ezimgfmt=ng:webp/ngcb6"> 
 <!--   <img align="center" alt="gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
 </div>
