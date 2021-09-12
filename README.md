@@ -5,7 +5,7 @@
 
  <div>
   <a href="https://github.com/gabriel-malenowitch">
-  <div style="height="160em"; ">
+  <div style="height="160em"; display: "flex";>
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
   </div>
@@ -34,7 +34,7 @@
  
  <div>
    <h4>Tour rápido:</h4>
-   <a href="https://netflix-clone-by-gabriel.netlify.app/">&lt;&lt;Clone netflix&bt;&bt;</a>
+   <a href="https://netflix-clone-by-gabriel.netlify.app/">&lt;&lt;Clone netflix&gt;&gt;</a>
   
  </div>
  
