@@ -39,7 +39,7 @@
    <p><a href="https://netflix-clone-by-gabriel.netlify.app/">-&lt;&lt;Clone netflix React.js&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/clone-netflix-js-puro/">-&lt;&lt;Clone netflix js puro&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/CSS-Components/index.html">-&lt;&lt;Componentes CSS&gt;&gt;</a></p>
-  
+   <p><a href="https://copia-devfinance-reactjs.netlify.app/">-&lt;&lt;Copia devFinance React.js&gt;&gt;</a></p>
    <p><a href="https://tic-tac-toe-001.netlify.app">-&lt;&lt;Tic-tac-toe-01&gt;&gt;</a></p>
    <p><a href="https://tic-tac-toe-00.netlify.app/">-&lt;&lt;Tic-tac-toe-00&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Calc_project_000/">-&lt;&lt;Calc_project_000&gt;&gt;</a></p>
