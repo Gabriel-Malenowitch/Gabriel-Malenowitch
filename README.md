@@ -44,6 +44,7 @@
    <p><a href="https://gabriel-malenowitch.github.io/Paralax-Itens/">-&lt;&lt;Paralax Itens&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Login-Glass/">-&lt;&lt;Login Glass&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Math-Training/index.html">-&lt;&lt;Treino Matemático&gt;&gt;</a></p>
+   <p><a href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">-&lt;&lt;Player de vídeo&gt;&gt;</a></p>
   
   
   
