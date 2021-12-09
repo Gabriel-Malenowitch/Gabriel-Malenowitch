@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-- 🔭 Hoje em dia ainda não trabalho, apenas estudo
+Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
 
  <div>
   <a href="https://github.com/gabriel-malenowitch">
