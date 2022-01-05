@@ -19,7 +19,7 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
   <img align="center" alt="gabriel-Node.js" height="30" width="40" src="./nodejs-icon.svg"> 
   <img align="center" alt="gabriel-Java-SDK" height="30" style="margin-right: "5px";" src="https://www.couchbase.com/binaries/content/gallery/website/logos/java-seeklogo.com-converted.svg"> 
   <img align="center" alt="gabriel-C" height="30" src="https://www.w3schools.in/wp-content/uploads/cprogramming-logo.png?ezimgfmt=ng:webp/ngcb6"> 
-  <img align="center" width="70" alt="gabriel-C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
+  <img align="center" width="70" alt="gabriel-C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
    
 <!--   <img align="center" alt="gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
@@ -46,8 +46,7 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
    <p><a href="https://gabriel-malenowitch.github.io/Login-Glass/">-&lt;&lt;Login Glass&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Math-Training/index.html">-&lt;&lt;Treino Matemático&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">-&lt;&lt;Player de vídeo&gt;&gt;</a></p>
-  
-  
+   <a href="https://stone0test0admin0by0gabriel.herokuapp.com/">-&lt;&lt;Sistema de gerenciamento de cartões da Núcleo <span style="color: white;">(email: admin0@gmail.com - senha: admin0)</span>&gt;&gt;</a></p> 
   
    <p><a href="https://tic-tac-toe-001.netlify.app">-&lt;&lt;Tic-tac-toe-01&gt;&gt;</a></p>
    <p><a href="https://tic-tac-toe-00.netlify.app/">-&lt;&lt;Tic-tac-toe-00&gt;&gt;</a></p>
