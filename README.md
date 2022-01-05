@@ -4,9 +4,9 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
 
  <div>
   <a href="https://github.com/gabriel-malenowitch">
-  <div style="height="160px"; display: "flex";">
-    <img style="height="160px";" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img style="height="160px";" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
+  <div style="flex-direction: colum; display: flex;">
+    <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
+    <img style="width:50%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
 </div>
 <div style="display: inline_block"><br>
