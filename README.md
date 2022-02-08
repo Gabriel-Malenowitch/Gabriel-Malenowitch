@@ -46,7 +46,8 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
    <p><a href="https://gabriel-malenowitch.github.io/Login-Glass/">-&lt;&lt;Login Glass&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Math-Training/index.html">-&lt;&lt;Treino Matemático&gt;&gt;</a></p>
    <p><a href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">-&lt;&lt;Player de vídeo&gt;&gt;</a></p>
-   <a href="https://stone0test0admin0by0gabriel.herokuapp.com/">-&lt;&lt;Sistema de gerenciamento de cartões da Núcleo <span style="color: white;">(email: admin0@gmail.com - senha: admin0)</span>&gt;&gt;</a></p> 
+   <a href="https://stone0test0admin0by0gabriel.herokuapp.com/">-&lt;&lt;Sistema de gerenciamento de cartões <span style="color: white;">(email: admin0@gmail.com - senha: admin0)</span>&gt;&gt;</a></p> 
+   <a href="https://remake-admin-panel-stone.netlify.app/">-&lt;&lt;Sistema de gerenciamento de cartões React Admin e MUI<span style="color: white;">(email: admin0@gmail.com - senha: admin0)</span>&gt;&gt;</a></p> 
   
    <p><a href="https://tic-tac-toe-001.netlify.app">-&lt;&lt;Tic-tac-toe-01&gt;&gt;</a></p>
    <p><a href="https://tic-tac-toe-00.netlify.app/">-&lt;&lt;Tic-tac-toe-00&gt;&gt;</a></p>
