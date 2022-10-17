@@ -8,15 +8,15 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
 </div>
 </div>
 <div style="padding: 8px;">
-    <img class="stack-icon" alt="gabriel-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img class="stack-icon" alt="gabriel-Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img class="stack-icon" alt="gabriel-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img class="stack-icon" alt="gabriel-Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-    <img class="stack-icon" alt="gabriel-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-    <img class="stack-icon" alt="gabriel-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img class="stack-icon" alt="gabriel-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img class="stack-icon" alt="gabriel-Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img class="stack-icon" alt="gabriel-Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img style="width: 30px; height: 30px;" alt="gabriel-Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
 </div>
 
 <div class="p-1">
@@ -53,3 +53,4 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
     <li>
         <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">Calc_project_000</a>
     </li>
+</ul>
