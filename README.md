@@ -2,12 +2,16 @@
 
 Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
 
-<div style="flex-direction: row; display: flex; padding: 8px;">
-    <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
-    <img style="width:50%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div>
+    <div style="padding: 8px; margin-top: 8px;">
+        <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+    <div style="padding: 8px; margin-top: 8px;">
+        <img style="width:50%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
 </div>
 </div>
-<div style="padding: 8px;">
+<div style="padding: 8px; margin-top: 8px;">
     <img style="width: 30px; height: 30px;" alt="gabriel-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img style="width: 30px; height: 30px;" alt="gabriel-Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img style="width: 30px; height: 30px;" alt="gabriel-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,7 +23,7 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
     <img style="width: 30px; height: 30px;" alt="gabriel-Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
 </div>
 
-<div class="p-1">
+<div style="padding: 8px; margin-top: 8px;">
     <a href="https://instagram.com/gabriel_malenowitch" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
