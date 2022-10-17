@@ -1,4 +1,5 @@
- <h3>Hello, World! 👋</h3>
+<body>
+    <h3>Hello, World! 👋</h3>
 
     <p>Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!</p>
 
@@ -54,3 +55,5 @@
             <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">Calc_project_000</a>
         </li>
     </ul>
+
+</body>
