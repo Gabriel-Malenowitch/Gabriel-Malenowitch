@@ -1,7 +1,6 @@
-    <div>
-        <h3>Hello, World! 👋</h3>
+### Hello, World!
 
-        <p>Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!</p>
+        Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
 
         <div style="flex-direction: row; display: flex; padding: 8px;">
             <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
@@ -54,5 +53,3 @@
             <li>
                 <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">Calc_project_000</a>
             </li>
-        </ul>
-    </div>
