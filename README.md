@@ -1,6 +1,6 @@
-### Hello, World! 👋
+ <h3>Hello, World! 👋</h3>
 
-    Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
+    <p>Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!</p>
 
     <div style="flex-direction: row; display: flex; padding: 8px;">
         <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
