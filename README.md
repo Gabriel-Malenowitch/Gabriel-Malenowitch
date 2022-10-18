@@ -1,10 +1,17 @@
-### Hello, World!
+### Hello, World! 👋
 
-Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
+Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀🚀🚀
 
-<img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
-<img style="width:50%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div style="
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+">
+    <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
+    <img style="width:50%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
 <div style="padding: 8px; margin-top: 8px;">
     <img style="width: 30px; height: 30px;" alt="gabriel-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img style="width: 30px; height: 30px;" alt="gabriel-Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,7 +23,6 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
     <img style="width: 30px; height: 30px;" alt="gabriel-Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img style="width: 30px; height: 30px;" alt="gabriel-Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
 </div>
-
 <div style="padding: 8px; margin-top: 8px;">
     <a href="https://instagram.com/gabriel_malenowitch" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
@@ -29,26 +35,113 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa!
     </a>
 </div>
 
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+<div style="
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: 50px;
+">
 
-<h4 style="font-family: sans-serif;">Tour rápido:</h4>
+<div style="
+    width: 340px;
+    height:  540px;
+    padding: 30px;
+    padding-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 20px;
+    flex-direction: column;
+    background-image: linear-gradient(45deg, #F13232, #3412f3);
+">
+    <div style="
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bolder;
+        margin-bottom: 20px;
+    ">
+    <div style="
+        padding: 5px;
+        margin-bottom: 8px;
+        display: flex;
+        justify-content: space-around
+        align-items: center;
+        background-color: #00F;
+        border-radius: 30px;
+        background-image: linear-gradient(45deg, #F13232, #3412f3);
+    ">
+    <image style="
+        width: 170px; 
+        border-radius: 30px;
+    " src="./profile-image.jfif" />
+    </div>
+    <p>Gabriel Botelho Malenowitch</p>
+    </div>
+
+<h3 style="font-family: sans-serif;">Tour rápido:</h3>
 <ul>
     <li>
-        <a style="font-family: sans-serif;" href="https://netflix-clone-by-gabriel.netlify.app/">Clone netflix React.js</a>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://netflix-clone-by-gabriel.netlify.app/">👉Clone netflix React.js</a>
     </li>
     <li>
-        <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Remake-Tesla-Paralax-Simples/">Remake site da Tesla com paralax simples</a>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Remake-Tesla-Paralax-Simples/">👉Remake site da Tesla com paralax simples</a>
     </li>
     <li>
-        <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Paralax-Itens/">Paralax Itens</a>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Paralax-Itens/">👉Paralax Itens</a>
     </li>
     <li>
-        <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Login-Glass/">Login Glass</a>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Login-Glass/">👉Login Glass</a>
     </li>
     <li>
-        <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">Player de vídeo</a>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">👉Player de vídeo</a>
     </li>
     <li>
-        <a style="font-family: sans-serif;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">Calc_project_000</a>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">👉Calc_project_000</a>
     </li>
 </ul>
+</div>
+
+<div style="
+    width: 340px;
+    height:  540px;
+    padding: 30px;
+    padding-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 20px;
+    flex-direction: column;
+    background-image: linear-gradient(45deg, #F13232, #3412f3);
+">
+<h3 style="font-family: sans-serif;">Tour rápido:</h3>
+<ul>
+    <li>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://netflix-clone-by-gabriel.netlify.app/">👉Clone netflix React.js</a>
+    </li>
+    <li>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Remake-Tesla-Paralax-Simples/">👉Remake site da Tesla com paralax simples</a>
+    </li>
+    <li>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Paralax-Itens/">👉Paralax Itens</a>
+    </li>
+    <li>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Login-Glass/">👉Login Glass</a>
+    </li>
+    <li>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">👉Player de vídeo</a>
+    </li>
+    <li>
+        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">👉Calc_project_000</a>
+    </li>
+</ul>
+</div>
+
+</div>
+
+
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+
+
