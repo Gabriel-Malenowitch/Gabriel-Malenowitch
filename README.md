@@ -1,7 +1,5 @@
 ### Hello, World! 👋
 
-#[WIP]
-
 Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀🚀🚀
 
 <div style="
@@ -93,6 +91,6 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀�
 </div>
 
 
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
