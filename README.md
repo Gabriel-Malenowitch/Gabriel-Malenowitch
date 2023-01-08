@@ -1,5 +1,7 @@
 ### Hello, World! 👋
 
+#[WIP]
+
 Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀🚀🚀
 
 <div style="
@@ -63,23 +65,8 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀�
         font-weight: bolder;
         margin-bottom: 20px;
     ">
-    <div style="
-        padding: 5px;
-        margin-bottom: 8px;
-        display: flex;
-        justify-content: space-around
-        align-items: center;
-        background-color: #00F;
-        border-radius: 30px;
-        background-image: linear-gradient(45deg, #F13232, #3412f3);
-    ">
-    <image style="
-        width: 170px; 
-        border-radius: 30px;
-    " src="./profile-image.jfif" />
-    </div>
-    <p>Gabriel Botelho Malenowitch</p>
-    </div>
+
+
 
 <h3 style="font-family: sans-serif;">Tour rápido:</h3>
 <ul>
@@ -102,42 +89,6 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀�
         <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">👉Calc_project_000</a>
     </li>
 </ul>
-</div>
-
-<div style="
-    width: 340px;
-    height:  540px;
-    padding: 30px;
-    padding-top: 90px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    border-radius: 20px;
-    flex-direction: column;
-    background-image: linear-gradient(45deg, #F13232, #3412f3);
-">
-<h3 style="font-family: sans-serif;">Tour rápido:</h3>
-<ul>
-    <li>
-        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://netflix-clone-by-gabriel.netlify.app/">👉Clone netflix React.js</a>
-    </li>
-    <li>
-        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Remake-Tesla-Paralax-Simples/">👉Remake site da Tesla com paralax simples</a>
-    </li>
-    <li>
-        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Paralax-Itens/">👉Paralax Itens</a>
-    </li>
-    <li>
-        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Login-Glass/">👉Login Glass</a>
-    </li>
-    <li>
-        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Player-de-video-OBJ/">👉Player de vídeo</a>
-    </li>
-    <li>
-        <a style="font-family: sans-serif; color: #b9d5ff;" href="https://gabriel-malenowitch.github.io/Calc_project_000/">👉Calc_project_000</a>
-    </li>
-</ul>
-</div>
 
 </div>
 
