@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Hello, World! [WIP] 👋
 
 Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀🚀🚀
 
@@ -9,7 +9,6 @@ Venha comigo nessa jornada onde a lógica pode construir qualquer coisa! 🚀�
     flex-direction: row;
 ">
     <img style="width:50%; height: 230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-malenowitch&layout=compact&langs_count=7&theme=dark"/>
-    <img style="width:50%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=gabriel-malenowitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="padding: 8px; margin-top: 8px;">
