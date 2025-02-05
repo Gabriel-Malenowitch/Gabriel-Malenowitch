@@ -1,5 +1,5 @@
 ### Hi! Welcome here!
- > Take a look at my laboratory, where we can build anything using one of the most fundamental rules of the world: logic!"
+ > Take a look at my laboratory, where we can build anything using one of the most fundamental rules of the world: logic!
 
 [![alt text](whatsup.png)](https://fake-gabriel-portifolio.netlify.app/)
 
